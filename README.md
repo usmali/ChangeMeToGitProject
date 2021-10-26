@@ -6,7 +6,5 @@ This is the first file in this repo
 
 Test 123 456
 
-## Ipsum more
 
-Test 789 111
 
